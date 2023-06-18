@@ -1,4 +1,4 @@
-# Aula-Everton
+# SnoopyWall
 O SnoopyWall é um site mural minimalista projetado para ser o seu diário digital pessoal, onde você pode armazenar e organizar todas as suas ideias, pensamentos e memórias em um só lugar, de forma simples e segura. Com uma abordagem minimalista, o SnoopyWall oferece uma plataforma intuitiva e descomplicada para criar um diário visual combinando imagens e texto.
 
 Ao acessar o SnoopyWall, você pode criar o seu mural pessoal e começar a adicionar suas imagens e textos de maneira organizada. Embora não haja a opção de adicionar tags ou criar álbuns personalizados, você pode organizar suas entradas de forma linear, mantendo-as em ordem cronológica ou agrupando-as por temas específicos.
